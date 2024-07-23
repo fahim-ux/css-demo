@@ -28,7 +28,7 @@ const CSSNAV = () => {
                         className="mb-4 me-5 ms-2 mt-3 flex items-center text-neutral-900 hover:text-neutral-900 focus:text-neutral-900 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400 lg:mb-0 lg:mt-0"
                     >
                         <img
-                            src='/src/assets/Images/logo.png'
+                            src='../src/assets/Images/logo.png'
                             className='h-10 w-auto border-4 border-rose-600 rounded-full'
                             alt="TE Logo"
                             loading="lazy"
