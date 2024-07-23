@@ -203,7 +203,7 @@ const Footer = () => {
             {/* <!--Copyright section--> */}
             <div classNameName="w-full bg-rose-600 p-4 text-center">
                 © 2023 Copyright:
-                <a href="https://tw-elements.com/">TW Elements</a>
+                <a href="https://tw-elements.com/">CSS@2024</a>
             </div>
         </footer>
     )
